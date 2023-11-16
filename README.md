@@ -1,2 +1,2 @@
 # HTX_project
-HTX Project
+Honors Times Two Project: Arkesh Das and Cale Dittmer
